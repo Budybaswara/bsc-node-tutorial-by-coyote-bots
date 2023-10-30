@@ -1,5 +1,5 @@
 ![Coyote bot logo](https://pbs.twimg.com/profile_images/1437957467225268226/a_qfpwtb_400x400.jpg "Logo Coyote bot logo")
-# BSC Node Installer Tutorial
+# BSC Node Installer Tutoriall
 
 #### created by cedrik31tlse#8672 (Discord) / cedrik31tlse (Telegram)
 
